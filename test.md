@@ -12,8 +12,4 @@ TEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEstTEst
 
 
 
-| 열머리글 1 | 열머리글2 | 열머리글3 |
-| ------ | ----- | ----- |
-| 1      | test  | test  |
-| 2      | test  | test  |
-| 3      | test  | test  |
+<table data-view="cards"><thead><tr><th>열머리글 1</th><th>열머리글2</th><th>열머리글3</th></tr></thead><tbody><tr><td>1</td><td>test</td><td>test</td></tr><tr><td>2</td><td>test</td><td>test</td></tr><tr><td>3</td><td>test</td><td>test</td></tr></tbody></table>
